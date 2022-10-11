@@ -4,7 +4,7 @@
 <p>Nim : 312110045 </p>
 
 Sript HTML 
-![1](img/ss1.png)
+![1](img/ss2.png)
 Sript CSS
 ![2](img/css1.png)
 Hasil dari Sript HTML dan Sript CSS
