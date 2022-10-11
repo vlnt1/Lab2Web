@@ -27,3 +27,6 @@ penjelasan dan contohnya!</p>
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
 Berikan penjelasan dan contohnya! ( <#p id="paragraf-1" class="text-paragraf"> )</p>
 
+<p>Jawab : </p>
+<p>1.
+
