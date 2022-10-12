@@ -28,5 +28,13 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! ( <#p id="paragraf-1" class="text-paragraf"> )</p>
 
 <p>Jawab : </p>
-<p>1.
+<p>1.</p>
+<p>2. perbedaaannya jika hanya h1{} maka akan merubah semua yang ada didalam elemen h1 sedangkan intro h1 hanya akan merubah yang memiliki tag intro</p>
+<p>3. jika ketiga CSS merubah elemen yang sama maka deklarasi tersebut akan mengikuti aturan prioritas dimana prioritas CSS nya seperti ini:</p>
+
+<p>inline CSS</p>
+<p>ID selector CSS</p>
+<p>internal CSS</p>
+<p>external CSS</p>
+<p>4. hasilnya sesuai dengan kesimpulan saya sebelumnya semakin spesifik css tersebut maka akan semakin tinggi prioritas css tersebut</p>
 
